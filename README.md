@@ -6,6 +6,10 @@ reminderを作るよ
 
 postgresqlを使うよ
 
+## STEP1
+- フロント画面からreminderを登録できる
+- 登録されたreminderが何かしらの方法でユーザに通知される
+
 ## その他やりたいことメモ
 - docker
 - react
