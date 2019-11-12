@@ -1,0 +1,2 @@
+rootProject.name = 'remindmeanything'
+include 'remindmeanything-api', 'remidmeanything-web'
